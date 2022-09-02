@@ -1,0 +1,36 @@
+/* IMPOSTAZIONI GENERALI */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: #393d41;
+    display: inline 1.65;
+    text-align: center;
+    
+}
+
+/* HEADER */
+header{
+    background-color: black;
+}
+img{
+    padding: 30px;
+}
+
+/* MAIN */
+h1 h2 h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #25a2c3;
+}
+#background-sfondo{
+    background-image: url(../images/banner.jpg);
+}
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
+footer{
+    color: #c8e7f0;
+
+}
