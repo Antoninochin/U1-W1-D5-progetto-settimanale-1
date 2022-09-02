@@ -58,6 +58,12 @@ button{
     color: white;
     border-radius: 7%;
 }
+#banner{
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
 #padding{
     padding: 30px;
 }
